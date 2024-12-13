@@ -99,7 +99,7 @@ http://79.127.235.177:1234/stream/TRICKFLIX/gmanews/master.m3u8?u=trickflix&p=90
 #EXTINF:33 group-title="RM STREAM" tvg-id="TRICKFLIX/gmalife" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] GMA_Life
 http://79.127.235.177:1234/stream/TRICKFLIX/gmalife/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:34 group-title="TRM STREAM" tvg-id="TRICKFLIX/gmanews-1" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] GMA_NEWS
+#EXTINF:34 group-title="RM STREAM" tvg-id="TRICKFLIX/gmanews-1" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] GMA_NEWS
 http://79.127.235.177:1234/stream/TRICKFLIX/gmanews-1/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
 #EXTINF:35 group-title="RM STREAM" tvg-id="TRICKFLIX/gmapinoy" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] GMA_PINOY
@@ -120,13 +120,13 @@ http://79.127.235.177:1234/stream/TRICKFLIX/hbohits/master.m3u8?u=trickflix&p=90
 #EXTINF:40 group-title="RM STREAM" tvg-id="TRICKFLIX/hbosignature" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] HBO_SIGNATURE
 http://79.127.235.177:1234/stream/TRICKFLIX/hbosignature/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:41 group-title="TRM STREAM" tvg-id="TRICKFLIX/history" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] HISTORY
+#EXTINF:41 group-title="RM STREAM" tvg-id="TRICKFLIX/history" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] HISTORY
 http://79.127.235.177:1234/stream/TRICKFLIX/history/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
 #EXTINF:42 group-title="RM STREAM" tvg-id="TRICKFLIX/hitshd" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] HITS_HD
 http://79.127.235.177:1234/stream/TRICKFLIX/hitshd/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
-#EXTINF:43 group-title="TRM STREAM" tvg-id="TRICKFLIX/hitsmovies" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] HITS_MOVIES
+#EXTINF:43 group-title="RM STREAM" tvg-id="TRICKFLIX/hitsmovies" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] HITS_MOVIES
 http://79.127.235.177:1234/stream/TRICKFLIX/hitsmovies/master.m3u8?u=trickflix&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
 #EXTINF:44 group-title="RM STREAM" tvg-id="TRICKFLIX/hitsnow" tvg-logo="" provider="TRICKFLIX" provider-logo="" provider-type="iptv",[Methflix] HITS_NOW
